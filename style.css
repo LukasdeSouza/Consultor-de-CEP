@@ -1,0 +1,13 @@
+body{
+    background-image: url(https://static.todamateria.com.br/upload/ba/nd/bandeira-do-brasil-og.jpg);
+    padding: 10px;
+}
+
+h1, h2, small{
+    color: white;
+    text-shadow: 0 0 40px black;
+}
+
+h1 > i{
+    color: blue;
+}
